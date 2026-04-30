@@ -20,7 +20,7 @@ Please follow these simple steps to reproduce our analysis:
 4. Run the rest of the code blocks in order (Step 2 to Step 5).
 5. You will see the data cleaning results, EDA graphs, model accuracy, and the fairness confusion matrix at the end.
 
-## 📁 Code Structure
+## Code Structure
 * **Step 1: Loading data** - Connects to Google Drive and loads the CSV file.
 * **Step 2: Data Cleaning & Preprocessing** - Filters only Dogs and Cats, handles missing values ('Unknown'), and makes the target variable.
 * **Step 3: Exploratory Data Analysis (EDA)** - Shows 3 graphs about adoption rates and days in shelter.
