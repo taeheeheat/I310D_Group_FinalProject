@@ -1,5 +1,4 @@
-# I310D_Group_FinalProject
-# Data-Driven Animal Welfare: Predicting Adoption Outcomes
+# I310D_Group_FinalProject_Data-Driven Animal Welfare: Predicting Adoption Outcomes
 **Course:** I310D Introduction to Human-Centered Data Science  
 **Group Members:** Seah Im, Hailey Kim, Uiin John Kim  
 
